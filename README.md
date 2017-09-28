@@ -1,4 +1,4 @@
-# Conference badge generator
+# Minimalistic conference badge generator
 This is a HTML/JS/d3 app which helps to generate printable pages with conference badges. You just need to prepare the conference badge template (as badgeTemplate.svg) and the list of participants (as participants.csv). Requirements for the files are described below.
 
 Unless 54x180mm badges suit you, you will have to adjust CSS code in index.html. Adjustments are pretty minimal, so everything should be fine even if you are not a programmer.
