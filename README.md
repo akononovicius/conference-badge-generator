@@ -3,6 +3,8 @@ This is a HTML/JS/d3 app which helps to generate printable pages with conference
 
 Unless 54x180mm badges suit you, you will have to adjust CSS code in index.html. Adjustments are pretty minimal, so everything should be fine even if you are not a programmer.
 
+After dealing with the template, the list and index.html, just open index.html in your favorite browser. This most likely will not work in Chrome (due to its strict security policies). To bypass this issue you could setup simple webserver.
+
 ## Requirements for the badge template
 
 * SVG format
