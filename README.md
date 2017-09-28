@@ -19,6 +19,7 @@ After dealing with the template, the list and index.html, just open index.html i
 ## Requirements for the list of participants
 
 * CSV format with "," as separators (other format requirements are outlined in d3 v4 documentation)
+* save as participants.csv in the same folder as index.html
 * first line must contain column labels
 * column labels must include:
     * name - to mark column which stores participants' names
